@@ -46,7 +46,6 @@ nodeLanguageServer.*/**
 dist/**
 # translation files
 *.xlf
-package.nls.*.json
 l10n/
 python-env-tools/**
 # coverage files produced as test output
